@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650536520 source:/home/ubuntuusr/266258/12345/main.cpp
+	<SFML/Graphics.hpp>
+	"Button.h"
+
+1650537356 /home/ubuntuusr/266258/12345/include/Button.h
+	<SFML/Graphics.hpp>
+
+1650536520 source:/home/ubuntuusr/266258/12345/src/Button.cpp
+	"Button.h"
+
